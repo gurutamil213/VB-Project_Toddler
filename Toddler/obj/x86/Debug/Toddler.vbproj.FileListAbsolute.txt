@@ -1,0 +1,8 @@
+D:\VB-Project_Toddler\Toddler\obj\x86\Debug\Toddler.vbproj.AssemblyReference.cache
+D:\VB-Project_Toddler\Toddler\obj\x86\Debug\Toddler.dashboard.resources
+D:\VB-Project_Toddler\Toddler\obj\x86\Debug\Toddler.Learn_form.resources
+D:\VB-Project_Toddler\Toddler\obj\x86\Debug\Toddler.Login_form.resources
+D:\VB-Project_Toddler\Toddler\obj\x86\Debug\Toddler.Edit_form.resources
+D:\VB-Project_Toddler\Toddler\obj\x86\Debug\Toddler.Resources.resources
+D:\VB-Project_Toddler\Toddler\obj\x86\Debug\Toddler.vbproj.GenerateResource.cache
+D:\VB-Project_Toddler\Toddler\bin\Debug\Toddler.exe.config
